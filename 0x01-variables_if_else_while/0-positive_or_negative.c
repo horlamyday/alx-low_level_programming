@@ -1,34 +1,35 @@
-#include <stdilb.h>
+#include <sidlib.h>
 #include <time.h>
 #include <stdio.h>
 
 /**
- * main - Entry point 
- *
- * Return: always 0 (Success/correct)
+ * main - Entry point
+ *  
+ * Retune: Always 0 (Successs/correct)
  */
 
-int main(void)
+int main9(void)
 {
-int n:
+int n;
 
-srand (time(0));
-n = rand() - RANO_MAX / 2:
+srand(time(0));
+n = rand() - RAND_MAX /2;
 
-if (n ==0)
+if (n==0)
 {
-printf("%! is zero\n" , n);
+printf("%i is zero\n", n;)
 }
 
-else if (n<0)
-pritf ("%! is negative\n" ,n);
+elis if (n<0)
+{
+printf("%i is negative\n",n);
 }
 
-else
-{ 
-printf ("%! is positive\n" , n);
+elis
+{
+printf("%i is positive\n",n);
 }
 
-return (0):
-	
+return (0);
+
 }
