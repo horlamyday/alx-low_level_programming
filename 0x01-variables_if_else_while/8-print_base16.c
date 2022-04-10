@@ -2,11 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main- entry point
+ * main - entry point
  *
  * Return: Always 0 (Success/correct)
  */
-int main (void)
+int main(void)
 
 {
 char base_16;
@@ -23,7 +23,7 @@ putchar(base_16);
 
 putchar ('\n');
 
-return (0)
+return (0);
 
 }	
 	
