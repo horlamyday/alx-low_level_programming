@@ -4,10 +4,10 @@
 /**
  * main - Entry point 
  *
- * Retrun: Always 0 (Success/correct)
+ * Return: Always 0 (Success/correct)
  */
 
-int main (void)
+int main(void)
 
 {
 char alphabet;
