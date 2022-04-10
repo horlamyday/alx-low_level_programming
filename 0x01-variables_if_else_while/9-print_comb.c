@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - entry point 
+ * main - Entry point
  *
  * Return: Always 0 (Success/correct)
  */
@@ -24,7 +24,7 @@ putchar (',');
 putchar ('');
 }
 
-putchar()'\n');
+putchar('\n');
 
 return (0);
 
