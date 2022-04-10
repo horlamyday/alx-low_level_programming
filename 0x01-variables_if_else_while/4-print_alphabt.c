@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Entring point 
+ * main - Entring point
  *
- * Retrun: Always 0 (Success/correct)
+ * Return: Always 0 (Success/correct)
  */
 
 int main(void)
@@ -12,7 +12,7 @@ int main(void)
 {
 char alphabet;
 
-for (alphabet = 'a' ; alphabet <= 'z' ; alphabet ++)
+for (alphabet = 'a' ; alphabet <= 'z' ; alphabet++)
 {
 if  (alphabet == 'q')
 continue;
