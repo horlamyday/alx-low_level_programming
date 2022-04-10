@@ -8,7 +8,7 @@
  * Retune: Always 0 (Successs/correct)
  */
 
-int main9(void)
+int main(void)
 {
 int n;
 
