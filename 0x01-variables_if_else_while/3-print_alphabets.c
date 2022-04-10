@@ -6,7 +6,7 @@
  *
  *Return: Always 0 (Sucess/correct)
  */
-int main(viod)
+int main(void)
 
 {
 char lower_case;
@@ -24,6 +24,6 @@ putchar(upper_case);
 
 putchar('\n');
 
-retrun (0);
+return (0);
 
 }
