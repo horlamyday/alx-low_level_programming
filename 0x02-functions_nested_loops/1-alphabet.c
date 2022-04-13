@@ -15,6 +15,4 @@ for (d = 'a'; d <= 'z'; d++)
 _putchar(d);
 }
 _putchar('\n');
-
-
 }
