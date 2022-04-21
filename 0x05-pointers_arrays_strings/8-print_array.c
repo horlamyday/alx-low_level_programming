@@ -6,7 +6,7 @@
  *   *
  *    * @a: array reference
  *     * @n: parameter
- *      */
+ */
 
 
 void print_array(int *a, int n)
